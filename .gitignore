@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.docx
+*.tmp
+report*.json
+merged*.json
+resolutions*.json
